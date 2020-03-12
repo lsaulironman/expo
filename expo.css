@@ -1,0 +1,181 @@
+
+/* Header styling */
+.wrapper-top-slider{
+    padding-top: 0;
+}
+
+/* Header Book Now button */
+.btn.shop-now{
+    transition: all .25s ease;
+    text-decoration: none;
+}
+
+.btn.shop-now:hover{
+    background:#e81938;
+    border: 2px solid #e81938; 
+    transition: all .25s ease;
+}
+
+.owl-carousel .owl-stage-outer{
+    padding-bottom: 0;
+}
+
+/* Locator/Search */
+.amlocator-main-container{
+    padding: 0 20px 10px 20px;
+}
+
+
+
+/* Search column */
+.amlocator-search-container, .amlocator-block{
+    width: 40%;
+}
+
+/* Map column */
+.amlocator-main-container .amlocator-map-container .amlocator-block.-map{
+    width: 60%;
+}
+/* Label */
+#range_radius{
+
+}
+/* select */
+#amlocator-measurement{
+
+}
+
+
+
+/* Location Filter */
+.amlocator-content.amlocator-hidden-filter .amlocator-attribute-wrapper{
+  font-weight: bold;
+}
+
+
+.amlocator-filters-container .amlocator-content{
+    transition: all .25s ease;
+}
+
+
+
+/* Expo Event Card */
+.amlocator-store-desc{
+    width: 98%;
+}
+.amlocator-store-desc.-active{
+    border: 2px solid #e81938;
+    background: white;
+}
+
+
+
+.amlocator-store-desc .amlocator-title{
+    margin-bottom: 0;
+}
+
+.amlocator-store-desc{
+    font-size: 15px;
+}
+
+.amlocator-store-desc a{
+    font-weight: bold; 
+    text-decoration: underline;
+}
+
+
+
+/* All Event page */
+.store-view-expo_usd{
+}
+
+.item.product.product-item{
+}
+
+.product.name.product-item-name{
+}
+
+.product.details.product-item-details{
+    background:#eee;
+    padding: 15px;
+}
+
+.price-box.price-final_price{
+    margin: 0 0 10px 0;
+}
+
+.product-image-photo{
+    border-bottom: 2px solid#eee;
+}
+
+.store-view-expo_usd a.product-item-link{ 
+    text-decoration: underline;
+}
+
+.store-view-expo_usd a.product-item-link:hover{ 
+    color: #000 !important;
+    text-decoration: underline;
+
+}
+
+
+/* Single Event Page */
+.aw-et-product-page #maincontent.page-main{
+    padding: 0;
+}
+
+div.gallery-placeholder{
+
+}
+
+#product.info.description{
+    background: #f4f4f4;
+}
+
+.aw-et-product-page .product-info-main .product-info-price{
+    border-bottom: 0;
+}
+
+.aw-et__start-date{
+    font-size: 20px;
+}
+
+.fotorama__stage{
+    height: 300px !important;
+}
+
+.fotorama__stage__frame.fotorama__img{
+    max-height: 100% !important;
+}
+
+.aw-et-product-page .product-info-main .product.attribute.overview{ 
+    background: #f4f4f4;
+    padding: 20px;
+    width: 100%;
+}
+
+
+.aw-et__view-options-container{
+
+}
+
+/* Footer */
+.green-title{
+    padding: 5%;
+}
+
+.green-title .newsletter_h1{
+    margin-bottom: 0px; 
+    display: block;
+}
+
+.green-title .newsletter_h4{
+    margin-bottom: 0; 
+    display: block;
+}
+
+.block.newsletter input { 
+    padding-left: 40px; 
+    margin-bottom: 20px;
+}
+
